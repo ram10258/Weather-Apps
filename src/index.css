@@ -1,0 +1,33 @@
+.weatherBg{
+  background: url("https://staging.deltaliquidenergy.com/wp-content/uploads/2019/11/Safety_Extreme-Weather_Thunderstorm.jpg");
+height: 80vh;
+display: flex;
+align-items: center;
+flex-direction: column;
+justify-content: center;
+}
+.heading{
+  color: white;
+  font-weight: 700;
+}
+.weatherResultBox{
+  margin: auto;
+  width: 500px;
+  height: 300px;
+  color: rgb(19, 18, 18);
+  
+
+}
+.weatherIcon{
+  margin-top: 2vh;
+  width: 100px;
+  height: 100px;
+  color: aqua;
+}
+.weatherCity{
+  font-size: 35px;
+}
+.weatherTemp{
+  font-size: 45px;
+  font-weight: 700;
+}
